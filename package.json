@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "TestColorTheme",
+                "label": "Some Yellow",
                 "uiTheme": "vs-dark",
-                "path": "./themes/TestColorTheme-color-theme.json"
+                "path": "./themes/some-yellow-color-theme.json"
             }
         ]
     }
