@@ -1,0 +1,21 @@
+{
+    "name": "vs-test-color-theme",
+    "displayName": "vs-test-color-theme",
+    "description": "color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TestColorTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TestColorTheme-color-theme.json"
+            }
+        ]
+    }
+}
