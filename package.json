@@ -1,11 +1,30 @@
 {
-    "name": "vs-test-color-theme",
-    "displayName": "vs-test-color-theme",
-    "description": "color theme",
+    "name": "some-yellow",
+    "displayName": "some-yellow",
+    "description": "a color theme based on yellow",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
     },
+    "publisher": "chamaraabeysekara",
+    "author": {
+        "name": "Chamara Abeysekara"
+    },
+    "homepage": "https://github.com/chamra/some-yellow",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chamra/some-yellow"
+    },
+    "bugs": {
+        "url": "https://github.com/chamra/some-yellow/issues"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "Theme",
+        "Yellow",
+        "Black",
+        "Some Yellow"
+    ],
     "categories": [
         "Themes"
     ],
