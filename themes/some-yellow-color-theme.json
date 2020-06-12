@@ -26,8 +26,8 @@
 		//---------
 
 		//status bar
-		"statusBar.background": "#f9d423",
-		"statusBar.foreground": "#272625",
+		"statusBar.background": "#272625",
+		"statusBar.foreground": "#f9d423",
 		//-------------
 
 		//notification
@@ -39,10 +39,10 @@
 		"list.hoverForeground": "#f9d423",
 
 		//tab
-		"titleBar.activeBackground": "#f9d423",
-		"titleBar.activeForeground": "#272625",
-		"titleBar.inactiveBackground": "#f9d423",
-		"titleBar.inactiveForeground": "#272625",
+		"titleBar.activeBackground": "#272625",
+		"titleBar.activeForeground": "#f9d423",
+		"titleBar.inactiveBackground": "#272625",
+		"titleBar.inactiveForeground": "#f9d423",
 	},
 	"tokenColors": [
 		{
