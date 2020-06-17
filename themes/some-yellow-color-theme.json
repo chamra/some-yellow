@@ -6,43 +6,60 @@
 		"editor.background": "#272625",
 		//"editor.foreground": "#f9d423",
 		//------
-
 		//file tabs
 		"tab.activeForeground": "#f9d423",
 		//
-
 		//-----activity bar
 		"activityBar.background": "#272625",
 		"activityBar.foreground": "#f9d423",
 		"activityBarBadge.background": "#f9d423",
 		//-----------
-		
 		//-------side bar
-		"sideBarSectionHeader.background": "#f9d423",
-		"sideBarSectionHeader.foreground": "#272625",
+		"sideBarSectionHeader.background": "#272625",
+		"sideBarSectionHeader.foreground": "#f9d423",
+		"sideBarSectionHeader.border": "#f9d423",
 		"sideBarTitle.foreground": "#f9d423",
 		"sideBar.background": "#272625",
-		
 		//---------
-
 		//status bar
 		"statusBar.background": "#272625",
 		"statusBar.foreground": "#f9d423",
-		//-------------
 
+		"statusBar.noFolderBackground": "#272625",
+		"statusBar.noFolderForeground": "#f9d423",
+		
+		"statusBar.debuggingBackground": "#f9d423",
+		"statusBar.debuggingForeground": "#272625",
+		//-------------
 		//notification
-		"notifications.background": "#f9d423",
-		"notifications.foreground": "#272625",
-		"notificationCenterHeader.background": "#f9d423",
-		"notificationCenterHeader.foreground": "#272625",
+		"notifications.background": "#272625",
+		"notifications.foreground": "#f9d423",
+		"notifications.border": "#f9d423",
+		"notificationCenterHeader.background": "#272625",
+		"notificationCenterHeader.foreground": "#f9d423",
+
+		"notificationLink.foreground": "#f9d423",
+		
 		"list.hoverBackground": "#272625",
 		"list.hoverForeground": "#f9d423",
+
 
 		//tab
 		"titleBar.activeBackground": "#272625",
 		"titleBar.activeForeground": "#f9d423",
 		"titleBar.inactiveBackground": "#272625",
 		"titleBar.inactiveForeground": "#f9d423",
+		
+		"button.background": "#383837",
+		"button.foreground": "#f9d423",
+
+		"input.border": "#f9d423",
+		"textLink.foreground": "#f9d423",
+
+		"progressBar.background": "#f9d423",
+		"checkbox.background": "#272625",
+		"checkbox.foreground": "#f9d423",
+		"checkbox.border" : "#f9d423"
 	},
 	"tokenColors": [
 		{
@@ -64,7 +81,7 @@
 			],
 			"settings": {
 				"foreground": "#f9d423",
-				"fontStyle":  "bold"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -108,7 +125,7 @@
 		},
 		{
 			"name": "Keywords",
-			"scope" : [
+			"scope": [
 				"keyword.control",
 			],
 			"settings": {
@@ -187,7 +204,7 @@
 			],
 			"settings": {
 				"foreground": "#ffffff",
-				"fontStyle":  "italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
