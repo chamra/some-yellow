@@ -1,7 +1,12 @@
 # Change Log
 
 
-## [Unreleased]
+## [0.0.4]
+### Removed
+- italic on variable naming
+
+###Changes
+- change color of the Keywords, Entity Types and CSS Class and Support
 
 ## [0.0.3]
 ### Added
