@@ -36,5 +36,11 @@
                 "path": "./themes/some-yellow-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.78.0"
+    },
+    "scripts": {
+        "deploy": "vsce publish --yarn"
     }
 }
