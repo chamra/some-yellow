@@ -37,7 +37,7 @@
             }
         ]
     },
-    "dependencies": {
+    "devDependencies": {
         "vsce": "^1.78.0"
     },
     "scripts": {
