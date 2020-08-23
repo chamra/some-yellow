@@ -80,8 +80,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f9d423",
-				"fontStyle": "bold"
+				"foreground": "#edbd99"
 			}
 		},
 		{
@@ -98,10 +97,18 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#fe4365"
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#f9d423"
 			}
 		},
 		{
