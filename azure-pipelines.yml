@@ -29,8 +29,6 @@ steps:
 - bash: |
     echo ">>> Publish"    
     yarn install && yarn deploy
-    vsce login $(ASSESTOKEN)
-    vsce publish
   displayName: Publish
   
 
