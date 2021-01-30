@@ -10,6 +10,9 @@
     "author": {
         "name": "Chamara Abeysekara"
     },
+    "scripts": {
+        "deploy": "vsce publish --yarn"
+    },
     "homepage": "https://github.com/chamra/some-yellow",
     "repository": {
         "type": "git",
