@@ -27,7 +27,8 @@ steps:
   displayName: Start xvfb
   condition: and(succeeded(), eq(variables['Agent.OS'], 'Linux'))
 - bash: |
-    echo ">>> Publish"    
+    echo ">>> Publish"
+    npm i vsce    
     yarn install && yarn deploy
   displayName: Publish
   
