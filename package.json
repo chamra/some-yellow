@@ -2,7 +2,7 @@
     "name": "some-yellow",
     "displayName": "some-yellow",
     "description": "a color theme based on yellow",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -36,11 +36,5 @@
                 "path": "./themes/some-yellow-color-theme.json"
             }
         ]
-    },
-    "dependencies": {
-        "vsce": "^1.78.0"
-    },
-    "scripts": {
-        "deploy": "vsce publish --yarn"
     }
 }
